@@ -19,8 +19,8 @@ func _process(delta):
 		get_tree().reload_current_scene()
 		
 	if Input.is_action_just_pressed("ui_focus_next"):
-		print("Add 5 AudioStreamPlayers (Set to -80db, stream paused)----- ")
-		for i in range(5):
+		print("Add 50 AudioStreamPlayers ----- ")
+		for i in range(50):
 			var new_sfx = sfx.instance()
 			add_child(new_sfx)
 			

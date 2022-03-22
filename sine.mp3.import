@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sine.mp3-d70d770813d03e8604700950b01d661d.mp3str"
+
+[deps]
+
+source_file="res://sine.mp3"
+dest_files=[ "res://.import/sine.mp3-d70d770813d03e8604700950b01d661d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
