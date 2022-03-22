@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sine.ogg-ec782e4824468c61d81bc016a85cd51a.oggstr"
+
+[deps]
+
+source_file="res://sine.ogg"
+dest_files=[ "res://.import/sine.ogg-ec782e4824468c61d81bc016a85cd51a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
